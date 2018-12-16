@@ -1,4 +1,4 @@
-console.log("Hello Vovan!!!")
+console.log("Hello Vovan!!!!!")
 
 function fact(n) {
     let result = 1
@@ -9,3 +9,4 @@ function fact(n) {
 }
 
 console.log(fact(4))
+console.log(fact(7))
