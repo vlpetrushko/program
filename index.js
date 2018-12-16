@@ -1,4 +1,4 @@
-console.log("starting")
+console.log("Hello Vovan!")
 
 function fact(n) {
     let result = 1
