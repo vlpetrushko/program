@@ -9,4 +9,4 @@ function fact(n) {
 }
 
 console.log(fact(4))
-console.log(fact(7))
+console.log(fact(8))
